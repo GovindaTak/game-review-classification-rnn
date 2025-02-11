@@ -8,7 +8,7 @@ This project is a Game Review Classification model using RNN and Word2Vec embedd
 ### **Overview**  
 This project focuses on classifying **game reviews** based on user sentiment. We analyze user feedback and predict whether they would **recommend** the game or not. The model is built using **Recurrent Neural Networks (RNNs)** with **Word2Vec embeddings**.  
 
----
+----
 
 ### **Project Pipeline**
 ✔️ **Step 1: Importing Dataset**  
